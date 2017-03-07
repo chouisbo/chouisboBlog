@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+这里是chouisbo的小站，欢迎大家来到这里。
+chouisbo，踏实、认真肯吃苦，聪明、活泼勤动脑。对数据挖掘和机器学习充满兴趣与热情，喜欢钻研新技术，拥抱开源，是个小Geek。码得了code，啃得了paper，推得了formula。有着扎实的计算机技术功底，具备良好的编程习惯。学习能力强，愿意接受新的挑战与机遇。喜欢游泳与音乐，热爱与一帮志同道合的朋友合作，共同开拓进取。

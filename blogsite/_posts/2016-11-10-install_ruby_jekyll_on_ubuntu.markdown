@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Ruby and Jekyll installation"
+title:  "Ubuntu 下安装 Ruby 和 Jekyll"
 date:   2016-11-10 14:06:21 +0800
 categories: jekyll install
 ---
 
 # Jekyll官网： http://jekyllrb.com/
-## Ubuntu 下安装 Ruby 和 Jekyll
 
 {% highlight bash %}
 # Ubuntu系统下安装ruby/rails必要的库和编译环境
